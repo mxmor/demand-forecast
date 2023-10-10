@@ -1,0 +1,6 @@
+.scrapy
+venv/
+.env
+__pycache__/
+dataset/consumption_data/
+run.bat
